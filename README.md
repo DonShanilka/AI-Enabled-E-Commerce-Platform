@@ -95,5 +95,4 @@ Follow the setup instructions in the respective frontend and backend repositorie
 - GitHub: [@DonShanilka](https://github.com/DonShanilka)
 - LinkedIn: [Nishith Shanilka](https://www.linkedin.com/in/NishithShanilka/)
 
-<img width="1710" height="1112" alt="Screenshot 2026-10-27 at 00 08 43" src="https://github.com/user-attachments/assets/708ded54-a3e9-4833-99ba-165f451dd544" />
 
