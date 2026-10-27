@@ -96,11 +96,27 @@ Follow the setup instructions in the respective frontend and backend repositorie
 - LinkedIn: [Nishith Shanilka](https://www.linkedin.com/in/NishithShanilka/)
 
 
-## FrontEnd Image
+## Login Page
 
 <img width="3419" height="1915" alt="Screenshot 2026-10-27 at 00 13 59" src="https://github.com/user-attachments/assets/2b82120c-6f3a-4911-bbd3-be1b5cd3c68f" />
 
+## Home Page
 <img width="3419" height="1915" alt="Screenshot 2026-10-27 at 00 11 18" src="https://github.com/user-attachments/assets/52704651-5d8a-4315-b239-99077c5c1ed3" />
 
+## Product Section
 <img width="3418" height="1913" alt="Screenshot 2026-10-27 at 00 08 43" src="https://github.com/user-attachments/assets/21c795d6-907f-4db3-8a33-7630d503704d" />
 
+## Item Page
+<img width="3419" height="1912" alt="item page" src="https://github.com/user-attachments/assets/bb395bfd-b195-49fd-ae49-5afddc484893" />
+
+## Cart Page
+<img width="3419" height="1911" alt="cart" src="https://github.com/user-attachments/assets/10bbfcd5-cbf6-4e86-bcd4-b2bd8d3f5fe7" />
+
+## Ai Assistent
+<img width="3419" height="1911" alt="Ai assistent" src="https://github.com/user-attachments/assets/f61f8e06-e642-47c9-8fb6-4ab0d3cd19c6" />
+
+## Item Compare Page 
+<img width="3419" height="1913" alt="compare" src="https://github.com/user-attachments/assets/112cc84a-def8-46ac-978c-064713275a93" />
+
+## Account Page
+<img width="3419" height="1911" alt="account" src="https://github.com/user-attachments/assets/10ca03ff-1ccd-4a26-ab7a-36a85edbaae6" />
