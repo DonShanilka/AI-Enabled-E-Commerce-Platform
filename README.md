@@ -96,3 +96,11 @@ Follow the setup instructions in the respective frontend and backend repositorie
 - LinkedIn: [Nishith Shanilka](https://www.linkedin.com/in/NishithShanilka/)
 
 
+## FrontEnd Image
+
+<img width="3419" height="1915" alt="Screenshot 2026-10-27 at 00 13 59" src="https://github.com/user-attachments/assets/2b82120c-6f3a-4911-bbd3-be1b5cd3c68f" />
+
+<img width="3419" height="1915" alt="Screenshot 2026-10-27 at 00 11 18" src="https://github.com/user-attachments/assets/52704651-5d8a-4315-b239-99077c5c1ed3" />
+
+<img width="3418" height="1913" alt="Screenshot 2026-10-27 at 00 08 43" src="https://github.com/user-attachments/assets/21c795d6-907f-4db3-8a33-7630d503704d" />
+
